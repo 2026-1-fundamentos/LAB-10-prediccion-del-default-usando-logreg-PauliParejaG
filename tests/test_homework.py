@@ -32,7 +32,7 @@ METRICS = [
     {
         "type": "metrics",
         "dataset": "test",
-        "precision": 0.701,
+        "precision": 0.70,
         "balanced_accuracy": 0.654,
         "recall": 0.349,
         "f1_score": 0.466,
